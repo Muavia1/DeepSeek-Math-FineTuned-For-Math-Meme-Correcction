@@ -1,17 +1,21 @@
 # DeepSeek-Math-FineTuned-For-Math-Meme-Correcction
 
-This project fine-tunes the DeepSeek-Math-7B model using LoRA (Low-Rank Adaptation) to correct mathematical memes and equations efficiently. By leveraging 4-bit quantization and PEFT (Parameter-Efficient Fine-Tuning), the model improves mathematical reasoning while maintaining a lightweight footprint.
+This project fine-tunes the DeepSeek-Math-7B model using LoRA (Low-Rank Adaptation) to enhance its ability to correct mathematical memes and equations. By applying parameter-efficient fine-tuning (PEFT) and 4-bit quantization, the model effectively identifies and corrects incorrect mathematical expressions while maintaining computational efficiency.
 
-Key Features:
+🚀 Features
+✅ Fine-Tuned LLM: DeepSeek-Math-7B adapted for math meme correction
+✅ Efficient Training: LoRA fine-tuning on attention layers for lightweight adaptation
+✅ Quantization: 4-bit bitsandbytes compression for reduced memory usage
+✅ Custom Dataset: Math meme corrections in CSV format
+✅ Hugging Face Trainer: Used for structured and optimized training
 
-🚀 LoRA Fine-Tuning on attention layers for efficient adaptation
+📉 Training Performance
+LoRA applied to query, key, value, and projection layers
 
-💾 4-bit Quantization using bitsandbytes for reduced memory usage
+Significant loss reduction during training, improving equation correction accuracy
 
-📊 Custom Training Dataset for math meme correction
+Example correction:
 
-🎯 Hugging Face Trainer for structured optimization
+Input: (10/5) + 3 = 8?
 
-Example Correction:
-✅ Input: (10/5) + 3 = 8?
-❌ Incorrect! Solve brackets first: (10/5) = 2, then add 3 → Correct answer: 5
+Output: Incorrect! Solve brackets first: (10/5) = 2, then add 3 → Correct answer: 5
