@@ -1,6 +1,5 @@
 # DeepSeek-Math-FineTuned-For-Math-Meme-Correcction
 
-Description:
 This project fine-tunes the DeepSeek-Math-7B model using LoRA (Low-Rank Adaptation) to correct mathematical memes and equations efficiently. By leveraging 4-bit quantization and PEFT (Parameter-Efficient Fine-Tuning), the model improves mathematical reasoning while maintaining a lightweight footprint.
 
 Key Features:
