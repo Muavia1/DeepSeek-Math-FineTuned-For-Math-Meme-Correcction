@@ -1,0 +1,51 @@
+input,output
+2 × 2 = 7?,Incorrect! The correct answer is 4. Multiplication follows straightforward rules: 2 × 2 = 4.
+5 + 3 × 2 = 16?,"Incorrect! Apply BODMAS: First multiply 3 × 2 = 6, then add 5 + 6 = 11. The correct answer is 11."
+(6 + 2) × 3 = 12?,"Incorrect! Solve the bracket first: (6 + 2) = 8, then multiply: 8 × 3 = 24. The correct answer is 24."
+10 ÷ 2 + 3 = 1?,"Incorrect! Follow BODMAS: 10 ÷ 2 = 5, then 5 + 3 = 8. The correct answer is 8."
+9 - 3 + 2 × 5 = 10?,"Incorrect! First multiply: 2 × 5 = 10, then solve left to right: 9 - 3 + 10 = 16. The correct answer is 16."
+(4 + 3) × (2 + 1) = 10?,"Incorrect! Solve brackets: (4 + 3) = 7, (2 + 1) = 3, then multiply: 7 × 3 = 21. The correct answer is 21."
+8 ÷ (4 - 2) × 3 = 6?,"Incorrect! Solve brackets: (4 - 2) = 2, then 8 ÷ 2 = 4, then 4 × 3 = 12. The correct answer is 12."
+6 + 2 × (5 - 3) = 14?,"Incorrect! Solve brackets first: (5 - 3) = 2, then multiply: 2 × 2 = 4, then add: 6 + 4 = 10. The correct answer is 10."
+(10 - 5) × 3 ÷ 5 = 9?,"Incorrect! Solve brackets: (10 - 5) = 5, then 5 × 3 = 15, then 15 ÷ 5 = 3. The correct answer is 3."
+7 + (3 × 2) ÷ 6 = 9?,"Incorrect! Solve multiplication first: 3 × 2 = 6, then division: 6 ÷ 6 = 1, then add: 7 + 1 = 8. The correct answer is 8."
+(12 ÷ 4) × (6 - 2) = 15?,"Incorrect! Solve brackets: (12 ÷ 4) = 3, (6 - 2) = 4, then multiply: 3 × 4 = 12. The correct answer is 12."
+20 - (3 × 4) + 2 = 14?,"Incorrect! Solve multiplication first: 3 × 4 = 12, then 20 - 12 = 8, then 8 + 2 = 10. The correct answer is 10."
+(18 ÷ 3) + (2 × 4) = 16?,"Incorrect! Solve brackets: (18 ÷ 3) = 6, (2 × 4) = 8, then add: 6 + 8 = 14. The correct answer is 14."
+(2 + 3) × 4 - 5 = 9?,"Incorrect! Solve brackets: (2 + 3) = 5, then multiply: 5 × 4 = 20, then subtract: 20 - 5 = 15. The correct answer is 15."
+(16 ÷ 4) × (5 - 3) = 12?,"Incorrect! Solve brackets: (16 ÷ 4) = 4, (5 - 3) = 2, then multiply: 4 × 2 = 8. The correct answer is 8."
+50 ÷ (5 × 2) + 4 = 10?,"Incorrect! Solve brackets first: 5 × 2 = 10, then 50 ÷ 10 = 5, then 5 + 4 = 9. The correct answer is 9."
+(8 + 4) ÷ (6 - 4) × 3 = 18?,"Incorrect! Solve brackets: (8 + 4) = 12, (6 - 4) = 2, then 12 ÷ 2 = 6, then 6 × 3 = 18. The correct answer is 18."
+(9 - 3) × (2 + 4) ÷ 3 = 8?,"Incorrect! Solve brackets: (9 - 3) = 6, (2 + 4) = 6, then multiply: 6 × 6 = 36, then 36 ÷ 3 = 12. The correct answer is 12."
+(14 ÷ 2) + (6 × 2) - 3 = 18?,"Incorrect! Solve brackets: (14 ÷ 2) = 7, (6 × 2) = 12, then 7 + 12 = 19, then 19 - 3 = 16. The correct answer is 16."
+(24 ÷ 4) × (9 - 5) + 2 = 22?,"Incorrect! Solve brackets: (24 ÷ 4) = 6, (9 - 5) = 4, then 6 × 4 = 24, then 24 + 2 = 26. The correct answer is 26."
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
